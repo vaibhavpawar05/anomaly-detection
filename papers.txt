@@ -1,0 +1,5 @@
+Detecting Anomalous Records in Categorical Datasets
+https://www.cs.cmu.edu/~schneide/KaustavDas07.pdf
+
+Mining the optimal class association rule set
+https://eprints.usq.edu.au/3548/1/Li_Shen_Topor_Mining_the_optimal_class_association_rule_set_Author%27s_version.pdf
